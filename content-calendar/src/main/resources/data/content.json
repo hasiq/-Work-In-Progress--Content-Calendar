@@ -1,0 +1,32 @@
+[
+{
+  "id": null,
+  "title": "My first post",
+  "desc": "My first post",
+  "status": "PUBLISHED",
+  "contentType": "VIDEO",
+  "dateCreated": "2023-06-30T00:00:00.000000",
+  "dateUpdated": null,
+  "url": ""
+},
+  {
+    "id": null,
+    "title": "My second post",
+    "desc": "My second post",
+    "status": "IDEA",
+    "contentType": "ARTICLE",
+    "dateCreated": "2023-04-10T00:00:00.000000",
+    "dateUpdated": null,
+    "url": ""
+  },
+  {
+    "id": null,
+    "title": "My third post",
+    "desc": "My third post",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2023-02-20T00:00:00.000000",
+    "dateUpdated": null,
+    "url": ""
+  }
+  ]
